@@ -8,7 +8,7 @@ import flutter from "../assets/flutter.png";
 import git from "../assets/git.png";
 import graphql from "../assets/graphql.png";
 import html from "../assets/html.png";
-import javascript from "../assets/javascript.png";
+import javascript from "../assets/javascript1.png";
 import mu5 from "../assets/mu5.png";
 import node from "../assets/node.png";
 import python from "../assets/python.png";
@@ -35,7 +35,10 @@ import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 
+import java from "../assets/java.jpg";
+
 export default {
+  java,
   email,
   mobile,
   api,
